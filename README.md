@@ -24,6 +24,12 @@ Three ways to define classes in JavaScript
 Essential design patterns for JavaScript  
 [http://addyosmani.com/resources/essentialjsdesignpatterns/book](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
+
+##Git
+Git workflows from Atlassian (Jira)  
+[https://www.atlassian.com/git/workflows](https://www.atlassian.com/git/workflows)
+
+
 ##Emails
 
 ### Avoid Spam Filters
