@@ -18,10 +18,10 @@ Five minute setup for security on a Linux server
 ##JavaScript
 
 ###Design Patterns
-Three ways to define classes in JavaScript
+Three ways to define classes in JavaScript  
 [http://www.phpied.com/3-ways-to-define-a-javascript-class/](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
 
-Essential design patterns for JavaScript
+Essential design patterns for JavaScript  
 [http://addyosmani.com/resources/essentialjsdesignpatterns/book](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
 ##Emails
