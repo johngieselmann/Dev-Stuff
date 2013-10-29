@@ -15,7 +15,7 @@ Five minute setup for security on a Linux server
 [http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
 ### Sudoers
-All about it
+All about it  
 [https://wiki.archlinux.org/index.php/sudo](https://wiki.archlinux.org/index.php/sudo)
 
 ##JavaScript
@@ -31,6 +31,9 @@ Essential design patterns for JavaScript
 ##Git
 Git workflows from Atlassian (Jira)  
 [https://www.atlassian.com/git/workflows](https://www.atlassian.com/git/workflows)
+
+Git branching outline  
+[http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
 
 
 ##Emails
