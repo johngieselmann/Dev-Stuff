@@ -4,8 +4,7 @@ Dev Stuff
 Things I may want to remember, but will likely forget.
 
 
-Servers
--------
+##Servers
 
 ### LAMP Setup
 Getting a LAMP stack started on Ubuntu 12.04  
@@ -16,8 +15,16 @@ Five minute setup for security on a Linux server
 [http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
 
-Emails
-------
+##JavaScript
+
+###Design Patterns
+Three ways to define classes in JavaScript
+[http://www.phpied.com/3-ways-to-define-a-javascript-class/](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
+
+Essential design patterns for JavaScript
+[http://addyosmani.com/resources/essentialjsdesignpatterns/book](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
+
+##Emails
 
 ### Avoid Spam Filters
 A good overview (and pretty layout) of avoiding spam filters.  
