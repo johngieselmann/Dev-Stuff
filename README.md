@@ -14,6 +14,10 @@ Getting a LAMP stack started on Ubuntu 12.04
 Five minute setup for security on a Linux server  
 [http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 
+Big brother y'all  
+[http://www.danielmiessler.com/study/lsof/](http://www.danielmiessler.com/study/lsof/)
+
+
 ### Sudoers
 All about it  
 [https://wiki.archlinux.org/index.php/sudo](https://wiki.archlinux.org/index.php/sudo)
