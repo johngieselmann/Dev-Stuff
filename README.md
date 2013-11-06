@@ -17,6 +17,10 @@ Five minute setup for security on a Linux server
 Big brother y'all  
 [http://www.danielmiessler.com/study/lsof/](http://www.danielmiessler.com/study/lsof/)
 
+###Shell / Scripting
+
+Bash wiki  
+[http://wiki.bash-hackers.org/doku.php](http://wiki.bash-hackers.org/doku.php)
 
 ### Sudoers
 All about it  
