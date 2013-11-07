@@ -22,6 +22,9 @@ Big brother y'all
 Bash wiki  
 [http://wiki.bash-hackers.org/doku.php](http://wiki.bash-hackers.org/doku.php)
 
+Bash Quick Reference  
+[http://devmanual.gentoo.org/tools-reference/bash/](http://devmanual.gentoo.org/tools-reference/bash/)
+
 ### Sudoers
 All about it  
 [https://wiki.archlinux.org/index.php/sudo](https://wiki.archlinux.org/index.php/sudo)
