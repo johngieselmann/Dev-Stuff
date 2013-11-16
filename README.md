@@ -38,6 +38,11 @@ Three ways to define classes in JavaScript
 Essential design patterns for JavaScript  
 [http://addyosmani.com/resources/essentialjsdesignpatterns/book](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
+##CSS
+
+###Formatting
+Idiomatic CSS  
+[https://github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)
 
 ##Git
 Git workflows from Atlassian (Jira)  
