@@ -17,7 +17,7 @@ Five minute setup for security on a Linux server
 Big brother y'all  
 [http://www.danielmiessler.com/study/lsof/](http://www.danielmiessler.com/study/lsof/)
 
-###Shell / Scripting
+### Shell / Scripting
 
 Bash wiki  
 [http://wiki.bash-hackers.org/doku.php](http://wiki.bash-hackers.org/doku.php)
@@ -25,26 +25,29 @@ Bash wiki
 Bash Quick Reference  
 [http://devmanual.gentoo.org/tools-reference/bash/](http://devmanual.gentoo.org/tools-reference/bash/)
 
+Exit Status'  
+[http://tldp.org/LDP/abs/html/exitcodes.html](http://tldp.org/LDP/abs/html/exitcodes.html)
+
 ### Sudoers
 All about it  
 [https://wiki.archlinux.org/index.php/sudo](https://wiki.archlinux.org/index.php/sudo)
 
-##JavaScript
+## JavaScript
 
-###Design Patterns
+### Design Patterns
 Three ways to define classes in JavaScript  
 [http://www.phpied.com/3-ways-to-define-a-javascript-class/](http://www.phpied.com/3-ways-to-define-a-javascript-class/)
 
 Essential design patterns for JavaScript  
 [http://addyosmani.com/resources/essentialjsdesignpatterns/book](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
-##CSS
+## CSS
 
-###Formatting
+### Formatting
 Idiomatic CSS  
 [https://github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)
 
-##Git
+## Git
 Git workflows from Atlassian (Jira)  
 [https://www.atlassian.com/git/workflows](https://www.atlassian.com/git/workflows)
 
@@ -52,7 +55,7 @@ Git branching outline
 [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
 
 
-##Emails
+## Emails
 
 ### Avoid Spam Filters
 A good overview (and pretty layout) of avoiding spam filters.  
