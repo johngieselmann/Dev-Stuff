@@ -41,6 +41,10 @@ Three ways to define classes in JavaScript
 Essential design patterns for JavaScript  
 [http://addyosmani.com/resources/essentialjsdesignpatterns/book](http://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
+### Helpful Hints
+45 Useful Tips  
+[http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
+
 ## CSS
 
 ### Formatting
