@@ -28,6 +28,9 @@ Bash Quick Reference
 Exit Status'  
 [http://tldp.org/LDP/abs/html/exitcodes.html](http://tldp.org/LDP/abs/html/exitcodes.html)
 
+The Humble If  
+[http://robots.thoughtbot.com/the-unix-shells-humble-if](http://robots.thoughtbot.com/the-unix-shells-humble-if)
+
 ### Sudoers
 All about it  
 [https://wiki.archlinux.org/index.php/sudo](https://wiki.archlinux.org/index.php/sudo)
