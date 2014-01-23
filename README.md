@@ -10,6 +10,9 @@ Things I may want to remember, but will likely forget.
 Getting a LAMP stack started on Ubuntu 12.04  
 [https://library.linode.com/lamp-guides/ubuntu-12.04-precise-pangolin](https://library.linode.com/lamp-guides/ubuntu-12.04-precise-pangolin)
 
+Linode  
+[https://library.linode.com/getting-started#sph_all-other-distributions](https://library.linode.com/getting-started#sph_all-other-distributions)
+
 ### Server Security
 Five minute setup for security on a Linux server  
 [http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
