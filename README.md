@@ -13,6 +13,11 @@ Getting a LAMP stack started on Ubuntu 12.04
 Linode  
 [https://library.linode.com/getting-started#sph_all-other-distributions](https://library.linode.com/getting-started#sph_all-other-distributions)
 
+### Nginx
+
+Simple Server Setup  
+[https://www.digitalocean.com/community/articles/how-to-set-up-nginx-virtual-hosts-server-blocks-on-ubuntu-12-04-lts--3](https://www.digitalocean.com/community/articles/how-to-set-up-nginx-virtual-hosts-server-blocks-on-ubuntu-12-04-lts--3)
+
 ### Server Security
 Five minute setup for security on a Linux server  
 [http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
