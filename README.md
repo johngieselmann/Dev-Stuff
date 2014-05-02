@@ -15,6 +15,9 @@ Linode
 
 ### Nginx
 
+Basic Configuration  
+[https://library.linode.com/web-servers/nginx/configuration/basic](https://library.linode.com/web-servers/nginx/configuration/basic)
+
 Simple Server Setup  
 [https://www.digitalocean.com/community/articles/how-to-set-up-nginx-virtual-hosts-server-blocks-on-ubuntu-12-04-lts--3](https://www.digitalocean.com/community/articles/how-to-set-up-nginx-virtual-hosts-server-blocks-on-ubuntu-12-04-lts--3)
 
