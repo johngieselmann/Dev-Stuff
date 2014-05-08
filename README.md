@@ -7,6 +7,7 @@ Things I may want to remember, but will likely forget.
 ##Servers
 
 ### LAMP Setup
+
 Getting a LAMP stack started on Ubuntu 12.04  
 [https://library.linode.com/lamp-guides/ubuntu-12.04-precise-pangolin](https://library.linode.com/lamp-guides/ubuntu-12.04-precise-pangolin)
 
@@ -43,8 +44,14 @@ The Humble If
 [http://robots.thoughtbot.com/the-unix-shells-humble-if](http://robots.thoughtbot.com/the-unix-shells-humble-if)
 
 ### Sudoers
+
 All about it  
 [https://wiki.archlinux.org/index.php/sudo](https://wiki.archlinux.org/index.php/sudo)
+
+### Linux
+
+Partitioning  
+[http://shearer.org/Linux_Server_Partitioning](http://shearer.org/Linux_Server_Partitioning)
 
 ## JavaScript
 
